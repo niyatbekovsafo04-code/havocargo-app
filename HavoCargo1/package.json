@@ -1,5 +1,6 @@
 {
   "name": "onspace-app",
+  "packageManager": "npm@10.9.0",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
