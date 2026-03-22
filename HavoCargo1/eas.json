@@ -1,7 +1,6 @@
 {
   "cli": {
-    "version": ">= 7.0.0",
-    "packageManager": "npm"
+    "version": ">= 7.0.0"
   },
   "build": {
     "preview": {
